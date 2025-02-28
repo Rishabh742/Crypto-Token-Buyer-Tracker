@@ -1,0 +1,27 @@
+A structured roadmap ensures the successful development and deployment of this project.
+
+-> Phase 1: MVP Development (2-3 months)
+
+   (1) Implement bias detection NLP model.
+
+   (2) Develop a basic Chrome extension that highlights biased words.
+
+   (3) Build a web dashboard where users can analyze news articles.
+
+-> Phase 2: User Testing & Enhancements (3-6 months)
+
+   (1) Collect real-world feedback to improve AI accuracy.
+
+   (2) Add fact-checking and historical comparisons.
+
+   (3) Optimize UI/UX for better usability.
+
+-> Phase 3: Monetization & Growth (6+ months)
+
+   (1) Launch premium features (advanced analytics, detailed reports).
+
+   (2) Partner with fact-checking agencies.
+
+   (3) Expand browser support (Firefox, Edge, Safari).
+
+This phased approach allows iterative improvements, ensuring the final product is polished and meets user needs.

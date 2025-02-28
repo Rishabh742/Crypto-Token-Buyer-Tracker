@@ -1,0 +1,9 @@
+
+1. Project Overview
+
+  This project is designed to track new buyers of a specific cryptocurrency token on the Solana blockchain. It identifies first-time Solana buyers who 
+  
+  purchase the token and notifies users in real time. This system can help investors analyze market trends and predict buying patterns for better 
+  
+  trading decisions.
+

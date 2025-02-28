@@ -1,0 +1,10 @@
+
+6. Future Enhancements
+
+   (1) Web Dashboard: Display buyer trends using React.js or Next.js.
+
+   (2) AI-Based Predictions: Predict future buy trends using machine learning.
+
+   (3) Automated Trading Bot: Execute trades based on new buyer data.
+
+   (4) Multi-Blockchain Support: Extend tracking to Ethereum, BSC, and Polygon.

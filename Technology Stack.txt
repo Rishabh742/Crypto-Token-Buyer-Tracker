@@ -1,0 +1,35 @@
+The Bias Detector & News Rewriter requires a powerful and scalable technology stack to process large amounts of text efficiently.
+
+-> Frontend (User Interface)
+
+   (1) React.js – Used for creating a responsive and interactive web interface.
+
+   (2) Tailwind CSS – Ensures a modern, mobile-friendly UI.
+
+-> Backend (Processing & API Handling)
+
+   (1) Node.js & Express.js – Handles API requests and article processing.
+
+   (2) Python (Flask or FastAPI) – Runs AI models for bias detection and rewriting.
+
+-> Database & Storage
+
+   (1) PostgreSQL – Stores analyzed news articles and user interaction data.
+
+   (2) Redis – Caches frequently analyzed news sources for faster processing.
+
+-> AI & NLP Models
+
+   (1) GPT-4 & BERT – Used for detecting bias and rewriting content.
+
+   (2) Hugging Face Transformers – Provides pre-trained language models.
+
+-> Browser Extension
+
+   (1) JavaScript (Manifest V3) – Creates a Chrome extension for real-time bias detection.
+
+-> APIs & External Services
+
+   (1) Fact-Checking APIs (e.g., FactCheck.org) – Validates news claims.
+
+   (2) Web Scraping (BeautifulSoup, Puppeteer) – Extracts article data for analysis.
